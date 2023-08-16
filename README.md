@@ -9,6 +9,10 @@ git clone https://github.com/bhoover59/pyrate
 ```
 pip install pyrate
 ```
+```
+import pyrate
+```
+
 ## Usage
 Uses the output of the F0AM v4.2.2 code written by Bode Hoover. Reaction rates and names are determined by the MATLAB script.
 
