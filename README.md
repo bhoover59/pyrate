@@ -4,6 +4,9 @@ Calculate HONO reaction rates and plot photostationary state
 
 ## Installation
 ```
+git clone https://github.com/bhoover59/pyrate
+```
+```
 pip install pyrate
 ```
 ## Usage
