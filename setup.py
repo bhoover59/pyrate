@@ -1,5 +1,4 @@
 from setuptools import setup
-from ipinfo.version import SDK_VERSION
 
 long_description = """
 Plotting functions for HONO rxn rates from output of Bode Hoover's MATLAB scripts for F0AM v4.2.2
@@ -7,7 +6,7 @@ Plotting functions for HONO rxn rates from output of Bode Hoover's MATLAB script
 
 setup(
     name="pyrate",
-    version=SDK_VERSION,
+    version='0.1',
     description="Plotting functions for HONO rxn rates",
     long_description=long_description,
     url="https://github.com/pyrate",
