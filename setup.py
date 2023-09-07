@@ -13,7 +13,7 @@ setup(
     url="https://github.com/pyrate",
     author="Bode Hoover",
     author_email="bodehoov@iu.edu",
-    license="Apache License 2.0",
+    license="GNU General Public License v3.0",
     packages=["ipinfo", "ipinfo.cache"],
     install_requires=["requests", "cachetools", "aiohttp<=4"],
     include_package_data=True,
