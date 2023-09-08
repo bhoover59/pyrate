@@ -9,7 +9,7 @@ setup(
     version='0.1',
     description="Plotting functions for HONO rxn rates",
     long_description=long_description,
-    url="https://github.com/pyrate",
+    url="https://github.com/bhoover59/pyrate",
     author="Bode Hoover",
     author_email="bodehoov@iu.edu",
     license="GNU General Public License v3.0",
