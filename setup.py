@@ -13,7 +13,7 @@ setup(
     author="Bode Hoover",
     author_email="bodehoov@iu.edu",
     license="GNU General Public License v3.0",
-    packages=["ipinfo", "ipinfo.cache"],
+    packages=["pyrate", "pyrate.cache"],
     install_requires=["requests", "cachetools", "aiohttp<=4"],
     include_package_data=True,
     zip_safe=False,
